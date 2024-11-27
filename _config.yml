@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Deep Learning in Atmospheric Science"
   location         : "Earth"
-  employer         : "USTC"
-  uri              : "https://azuremoment0000.github.io"
+  employer         : #"USTC"
+  uri              : #"https://azuremoment0000.github.io"
   email            : "jiechao@mail.ustc.edu.cn" 
 
   # Academic websites
