@@ -12,7 +12,7 @@ title                    : "Jie Chao / Homepage"
 title_separator          : "-"
 name                     : &name "Jie Chao"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://azuremoment0000.github.io"
+url                      : "https://azuremoment0000.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AzureMoment0000/azuremoment0000.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Deep Learning in Atmospheric Science"
   location         : "Earth"
   employer         : "USTC"
-  uri              : # URL
+  uri              : "https://azuremoment0000.github.io"
   email            : "jiechao@mail.ustc.edu.cn" 
 
   # Academic websites
