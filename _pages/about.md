@@ -18,4 +18,4 @@ My primary areas of interest include:
 
 
 
-[Email](jiechao: jiechao@mail.ustc.edu.cn) / [Github](https://github.com/AzureMoment0000)
+[Email](jiechao@mail.ustc.edu.cn) / [Github](https://github.com/AzureMoment0000)
