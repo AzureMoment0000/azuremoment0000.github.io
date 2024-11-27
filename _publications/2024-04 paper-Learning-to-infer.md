@@ -1,6 +1,7 @@
 ---
 title: "Learning to infer weather states using partial observations"
 collection: under review
+category: manuscripts
 category: Journal Articles
 permalink: /publication/2024-04 paper-Learning-to-infer
 excerpt: #'This paper is about fixing template issue #693.'
