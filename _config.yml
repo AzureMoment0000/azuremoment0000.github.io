@@ -7,8 +7,8 @@
 # server process.
 
 # Basic Site Settings
-locale                   : #"en-US"
-title                    : "Jie Chao"
+locale                   : "en-US"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Jie Chao"
 description              : &description "personal description"
