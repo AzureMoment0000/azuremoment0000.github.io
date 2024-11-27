@@ -19,3 +19,12 @@ My primary areas of interest include:
 
 
 [Email](mailto:jiechao@mail.ustc.edu.cn) / [Github](https://github.com/AzureMoment0000)
+
+“All knowledge is, in final analysis, history.
+
+All sciences are, in the abstact, mathematics.
+
+All judgements are, in their rationale, statistics.”
+
+——C.R. Rao Statistics And Truth
+
