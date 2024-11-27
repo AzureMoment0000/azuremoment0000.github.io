@@ -12,11 +12,11 @@ I'm a doctor student from [School of Earth and Space Sciences (ESS)](https://en.
 
 My primary areas of interest include:
 
-*Data Assimilation: Integrating observational data with numerical/data-driven models to improve the accuracy and reliability of weather and climate predictions.
-*Weather Forecasting: Applying deep learning algorithms to address the challenges of forecasting in a highly dynamic and chaotic atmosphere.
-*Climate Modeling: Utilizing AI-driven methods to simulate and analyze long-term climate variability and predict future climate scenarios.
+Data Assimilation: Integrating observational data with numerical/data-driven models to improve the accuracy and reliability of weather and climate predictions.
+Weather Forecasting: Applying deep learning algorithms to address the challenges of forecasting in a highly dynamic and chaotic atmosphere.
+Climate Modeling: Utilizing AI-driven methods to simulate and analyze long-term climate variability and predict future climate scenarios.
 
-I am dedicated to advancing our understanding of atmospheric processes and contributing to more reliable Earth system predictions.
+
 
 [Email](jiechao@mail.ustc.edu.cn) / [Github](https://github.com/AzureMoment0000)
 
