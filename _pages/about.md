@@ -1,13 +1,24 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
+execerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a doctor student from [School of Earth and Space Sciences (ESS)](https://en.ess.ustc.edu.cn/), [The University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My research focuses on the application of deep learning techniques in atmospheric science, aiming to enhance the accuracy and efficiency of various Earth system processes.
+
+My primary areas of interest include:
+
+*Data Assimilation: Integrating observational data with numerical/data-driven models to improve the accuracy and reliability of weather and climate predictions.
+*Weather Forecasting: Applying deep learning algorithms to address the challenges of forecasting in a highly dynamic and chaotic atmosphere.
+*Climate Modeling: Utilizing AI-driven methods to simulate and analyze long-term climate variability and predict future climate scenarios.
+
+I am dedicated to advancing our understanding of atmospheric processes and contributing to more reliable Earth system predictions.
+
+[Email](jiechao@mail.ustc.edu.cn) / [Github](https://github.com/AzureMoment0000)
 
 A data-driven personal website
 ======
