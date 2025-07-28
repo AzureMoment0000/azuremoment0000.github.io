@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Ph.D. student from [School of Earth and Space Sciences (ESS)](https://en.ess.ustc.edu.cn/), [The University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My primary research objective is ***the application of deep learning techniques in atmospheric science***, with the goal of enhancing the accuracy and efficiency of simulation and forecasting of various Earth system processes.
+I'm a Ph.D. student from [School of Earth and Space Sciences (ESS)](https://en.ess.ustc.edu.cn/), [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). My primary research objective is ***the application of deep learning techniques in atmospheric science***, with the goal of enhancing the accuracy and efficiency of simulation and forecasting of various Earth system processes.
 
 My primary areas of interest include:
 
